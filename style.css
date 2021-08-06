@@ -8,3 +8,18 @@ h1 {
       height: 90px;
     }
     
+    body {
+      background-color:bisque
+    }
+
+    button {
+      color:rgb(138, 90, 55)
+    }
+
+    h3 {
+      text-align: center;
+background-color: darkgoldenrod;
+padding: 20px;
+      width: 130px;
+      height: 50px;
+    }
