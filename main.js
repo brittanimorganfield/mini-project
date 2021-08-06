@@ -15,3 +15,5 @@ console.log(askCon)
 let askEntry = prompt("Enter your thoughts!");
 console.log(askEntry);
 }
+
+// not done
